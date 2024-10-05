@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#navbar{
+  background: linear-gradient(
+    /* to right,
+    #FFF9C4,
+    #FFEB3B,
+    #FFC107, */
+    #64B5F6,
+    #ecedef
+);
+}
+
+#hero{
+  background: linear-gradient(to right, #FFF176, #90CAF9);
+
+}
+
+#about{
+  background: linear-gradient(to right, #FFF176, #90CAF9);
+
+}
+
+#destinations{
+  background: linear-gradient(to right, #FFF176, #90CAF9);
+
+}
